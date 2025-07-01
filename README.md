@@ -28,10 +28,6 @@ This repository contains my exercises and projects from the Full Stack Open cour
 - `part12/` - Containers
 - `part13/` - Using relational databases
 
-## How to run projects
-
-Each exercise folder has its own instructions in the respective README.md.
-
 ## Technologies Used
 
 - React
