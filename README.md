@@ -35,7 +35,6 @@ This repository contains my exercises and projects from the Full Stack Open cour
 - Vite
 - Node.js
 - Express
-- And more as the course progresses...
 
 ## Progress
 
